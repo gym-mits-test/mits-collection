@@ -1,3 +1,1 @@
-[
-  "{\n    \"id\": 1,\n    \"name\": \"Test project 1\",\n    \"displayName\": \"MITS example project\",\n    \"description\": \"Description\",\n    \"url\": \"https://github.com/gym-mits-test/project-1\",\n    \"skillDomainIds\": [1],\n    \"competition\": \"Competition\",\n    \"estTime\": 4,\n    \"authors\": [\n      {\n        \"name\": \"John doe\",\n        \"url\": \"https://example.com\"\n      }\n    ],\n    \"technologies\": [\"HTML\", \"CSS\", \"JavaScript\"],\n    \"tags\": [\"frontend\", \"design implementation\", \"design\"]\n  },\n"
-]
+[]
