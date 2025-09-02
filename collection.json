@@ -7,7 +7,17 @@
     "skillDomainIds": [
       1
     ],
-    "competition": "Competition"
+    "competition": "Competition",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "design implementation",
+      "design"
+    ],
   },
   {
     "id": 2,
