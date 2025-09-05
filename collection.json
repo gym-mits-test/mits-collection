@@ -28,7 +28,7 @@
     ],
     "status": "published",
     "createdAt": "2025-09-02",
-    "isPrivate": false
+    "isPrivate": true
   },
   {
     "id": 2,
