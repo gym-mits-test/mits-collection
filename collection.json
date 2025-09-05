@@ -58,6 +58,7 @@
       "design"
     ],
     "status": "published",
-    "createdAt": "2025-09-02"
+    "createdAt": "2025-09-02",
+    "isPrivate": true
   }
 ]
