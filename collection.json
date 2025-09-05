@@ -27,7 +27,8 @@
       "design"
     ],
     "status": "published",
-    "createdAt": "2025-09-01"
+    "createdAt": "2025-09-01",
+    "isPrivate": false
   },
   {
     "id": 1,
