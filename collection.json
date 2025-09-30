@@ -97,6 +97,6 @@
     ],
     "status": "published",
     "createdAt": "2025-09-05",
-    "isPrivate": false
+    "isPrivate": true
   }
 ]
