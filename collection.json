@@ -59,7 +59,7 @@
     ],
     "status": "draft",
     "createdAt": "2025-09-01",
-    "isPrivate": false
+    "isPrivate": true
   },
   {
     "id": 3,
