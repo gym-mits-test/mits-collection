@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "name": "Course 1",
+    "displayName": "Example Mits Course",
+    "description": "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "https://github.com/gym-mits-test/course-1",
+    "skillDomainIds": [
+      1
+    ],
+    "authors": [
+      {
+        "name": "John Doe",
+        "url": "https://example.com"
+      }
+    ],
+    "technologies": [
+      "tech 1",
+      "tech 2",
+      "tech 3"
+    ],
+    "tags": [
+      "tag 1",
+      "tag 2",
+      "tag 3"
+    ],
+    "status": "published",
+    "isPrivate": true
+  }
+]
