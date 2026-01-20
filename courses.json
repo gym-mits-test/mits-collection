@@ -24,6 +24,11 @@
       "tag 3"
     ],
     "status": "published",
+    "moduleNames": {
+      "1": "Project Setup & First Card",
+      "2": "Color Exploration",
+      "10": "Real Data Transformation"
+    },
     "isPrivate": false
   }
 ]
