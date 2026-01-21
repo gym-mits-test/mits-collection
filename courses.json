@@ -37,5 +37,37 @@
       "10": "Real Data Transformation"
     },
     "isPrivate": false
+  },
+  {
+    "name": "MITS Design & Implementation Tutorial",
+    "displayName": "MITS Design & Implementation Tutorial",
+    "description": "Master HTML5 and CSS3 by building a professional 4-page website for the MITS platform - no JavaScript, no frameworks, just pure web fundamentals.",
+    "url": "https://github.com/gym-mits-test/course-2",
+    "skillDomainIds": [
+      1
+    ],
+    "authors": [
+      {
+        "name": "John Doe",
+        "url": "https://example.com"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "Design implementation",
+      "SEO",
+      "Accessibility",
+      "Flexbox"
+    ],
+    "status": "published",
+    "moduleNames": {
+      "1": "HTML Structure Only",
+      "2": "CSS Fundamentals - Base & Layout",
+      "3": "Home Page Styling"
+    },
+    "isPrivate": true
   }
 ]
