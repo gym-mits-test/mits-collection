@@ -105,5 +105,35 @@
     "status": "draft",
     "createdAt": "2026-01-19",
     "isPrivate": false
+  },
+  {
+    "name": "Test project 1",
+    "displayName": "MITS example project asdsad",
+    "description": "Description",
+    "url": "https://github.com/gym-mits-test/project-1",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "Competition",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "John doe",
+        "url": "https://example.com"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "design implementation",
+      "design"
+    ],
+    "status": "draft",
+    "publishedAt": "2025-09-02",
+    "isPrivate": false
   }
 ]
